@@ -20,3 +20,7 @@ TypeScript / React / Node.js / WebSerial の学習成果をまとめています
 
 ## Goal
 フルリモートで Web × IoT の開発に携わることを目指しています。
+
+## Contact
+仕事のご依頼はメールでお願いします: **yasu6482@gmail.com**
+
